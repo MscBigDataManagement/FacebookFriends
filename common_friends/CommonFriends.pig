@@ -1,9 +1,6 @@
 /*
   BigData Management - Assignment_2 
 
-  Karydis Athanasios - A.M. 17008 - email: dsc17008@uop.gr
-  Voulgari Eleni - A.M. 17005 - email: dsc17005@uop.gr
-
   Implementation of Common Friends between pairs of users in Facebook social network.
 */
 
